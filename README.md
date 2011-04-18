@@ -1,11 +1,5 @@
-My notes from QCon London 2011
-==============================
+Some shared notes taken at variuos times
+========================================
 
-Facebook
---------
-
-* Memcache
-  - Not distributed
-  - Hash(id) % #machines
-* MySql
-* Compiled php
+by: Kristoffer Roupé
+twitter: http://twitter.com/kitofr
