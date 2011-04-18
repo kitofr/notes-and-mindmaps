@@ -5,7 +5,7 @@
 * Memcache
   - Not distributed
   - Hash(id) % #machines
-      This is used to partition users onto different databases
+      - This is used to partition users onto different databases
   
 * MySql
 * Compiled php
