@@ -1,5 +1,4 @@
 Some shared notes taken at variuos times
 ========================================
 
-by: Kristoffer Roup&eacute;
-twitter: http://twitter.com/kitofr
+[http://twitter.com/kitofr Kristoffer Roup&eacute;]
