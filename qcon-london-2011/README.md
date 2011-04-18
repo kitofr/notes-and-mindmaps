@@ -5,9 +5,9 @@
 * Memcache
   - Not distributed
   
-  Hash(id) % #machines
-      /     \
-  DB |1| ... |n|
+    Hash(id) % #machines
+        /     \
+    DB |1| ... |n|
 
 * MySql
 * Compiled php
