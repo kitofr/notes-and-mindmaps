@@ -4,11 +4,9 @@
 
 * Memcache
   - Not distributed
+  - Hash(id) % #machines
+    - This is used to partition users onto different databases
   
-    Hash(id) % #machines
-        /     \
-    DB |1| ... |n|
-
 * MySql
 * Compiled php
 
